@@ -1,4 +1,4 @@
-/* Navbar styles */
+
 .navigation {
     display: flex;
     align-items: center;
@@ -40,7 +40,7 @@
     margin-left: 1rem;
   }
   
-  /* Hero image styles */
+  
   .heroImg {
     height: 600px;
     padding: 25px;
@@ -73,7 +73,7 @@
     cursor: pointer;
   }
   
-  /* Footer styles */
+
   footer {
     background-color: #373738;
     color: #ffffff;
